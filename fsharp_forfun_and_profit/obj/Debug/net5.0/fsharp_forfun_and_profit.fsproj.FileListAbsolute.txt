@@ -1,0 +1,10 @@
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\bin\Debug\net5.0\fsharp_forfun_and_profit.deps.json
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\bin\Debug\net5.0\fsharp_forfun_and_profit.dll
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\bin\Debug\net5.0\fsharp_forfun_and_profit.pdb
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\bin\Debug\net5.0\fsharp_forfun_and_profit.xml
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\obj\Debug\net5.0\fsharp_forfun_and_profit.fsprojAssemblyReference.cache
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\obj\Debug\net5.0\fsharp_forfun_and_profit.AssemblyInfoInputs.cache
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\obj\Debug\net5.0\fsharp_forfun_and_profit.AssemblyInfo.fs
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\obj\Debug\net5.0\fsharp_forfun_and_profit.dll
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\obj\Debug\net5.0\fsharp_forfun_and_profit.xml
+D:\Labs\.NET Core\fsharp\fsharp_forfun_and_profit\fsharp_forfun_and_profit\obj\Debug\net5.0\fsharp_forfun_and_profit.pdb

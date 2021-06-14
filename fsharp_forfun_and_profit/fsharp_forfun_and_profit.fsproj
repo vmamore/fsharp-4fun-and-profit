@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="fold.fsx" />
+    <None Include="low_overhead_type_definitions.fsx" />
+    <None Include="four_key_concepts.fsx" />
+    <None Include="csharp_vs_fsharp\download_web_page.fsx" />
+    <None Include="csharp_vs_fsharp\sorting.fsx" />
+    <None Include="csharp_vs_fsharp\simple_sum.fsx" />
+    <None Include="syntax.fsx" />
+  </ItemGroup>
+
+</Project>
